@@ -31,10 +31,10 @@ Asegúrate de tener instalados los siguientes paquetes en tu sistema:
 1. Clona este repositorio
 2. Entra al directorio del proyecto
 3. Instala las dependencias necesarias de Qt y el compilador:
-    -En Linux (Ubuntu/Debian):
-       sudo apt-get install qt5-qmake qtbase5-dev qtbase5-dev-tools build-essential
+    - En Linux (Ubuntu/Debian):
+       - sudo apt-get install qt5-qmake qtbase5-dev qtbase5-dev-tools build-essential
 4. Compila el proyecto usando qmake:
-     qmake & make
+     - qmake & make
 5. Ejecuta la aplicación
 
    
